@@ -2,8 +2,8 @@ fs-mode-to-string
 =================
 > Create a Unix-like permissions string from an `fs.stat` file or directory `mode`, eg `0777`to `-rwxrwxrwx`
 
-![Travis](https://img.shields.io/travis/andreaspizsa/fs-node-to-string.svg?style=flat-square)
-![Downloads](https://img.shields.io/npm/dm/fs-node-to-string.svg?style=flat-square)
+![Travis](https://img.shields.io/travis/andreaspizsa/fs-mode-to-string.svg?style=flat-square)
+![Downloads](https://img.shields.io/npm/dm/fs-mode-to-string.svg?style=flat-square)
 
 
 ## Install
