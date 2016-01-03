@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node ."
   },
+  "repository" : "https://github.com/AndreasPizsa/fs-mode-to-string",
   "keywords": "fs,stat,permission,mode,string,rwx,read,write,execute,directory,ls",
   "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
   "license": "MIT"
