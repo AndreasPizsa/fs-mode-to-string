@@ -1,5 +1,8 @@
 fs-mode-to-string
 =================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/fs-mode-to-string.svg)](https://greenkeeper.io/)
+
 > Create a Unix-like permissions string from an `fs.stat` file or directory `mode`, eg `0777`to `-rwxrwxrwx`
 
 ![Travis](https://img.shields.io/travis/AndreasPizsa/fs-mode-to-string.svg?style=flat-square)
